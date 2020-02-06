@@ -1,0 +1,4 @@
+
+**/*.ipynb_checkpoints/
+*.pyc
+notebook-drafts/None0000000.png

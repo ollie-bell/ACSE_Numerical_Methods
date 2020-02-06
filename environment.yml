@@ -1,0 +1,7 @@
+name: acse3
+dependencies:
+ - jupyter
+ - numpy
+ - scipy
+ - pip:
+   - mpltools
